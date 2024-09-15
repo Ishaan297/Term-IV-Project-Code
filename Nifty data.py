@@ -1,7 +1,7 @@
 import yfinance as yf 
 import pandas as pd 
 import openpyxl as op
-start_date = "2021-01-01"
+start_date = "2019-01-01"
 end_date = "2024-08-23"
 
 
